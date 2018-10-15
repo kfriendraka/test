@@ -1,3 +1,5 @@
 language: swift
-xcode_project: Hello.xcodeproj
+xcode_project: Test.xcodeproj
+xcode_scheme: TestTests
 xcode_destination: platform=iOS Simulator,OS=10.1,name=iPad Pro (9.7-inch)
+  
