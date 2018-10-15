@@ -14,6 +14,7 @@
 		704BAAD921750BB000ED786C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 704BAAD721750BB000ED786C /* LaunchScreen.storyboard */; };
 		704BAAE421750BB000ED786C /* TestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 704BAAE321750BB000ED786C /* TestTests.swift */; };
 		704BAAEF21750BB000ED786C /* TestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 704BAAEE21750BB000ED786C /* TestUITests.swift */; };
+		704BAAFD2175156600ED786C /* TestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 704BAAE321750BB000ED786C /* TestTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -260,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				704BAAD121750BB000ED786C /* ViewController.swift in Sources */,
+				704BAAFD2175156600ED786C /* TestTests.swift in Sources */,
 				704BAACF21750BB000ED786C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
